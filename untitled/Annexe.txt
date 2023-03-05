@@ -1,0 +1,35 @@
+MonDictionnaire
+round;balle d'arme a feu;une match d'arts martiaux
+JackHammer;Le marteau piqueur
+take off;quitter un poste;arreter de fumer;le décloage d'un avion 
+square;Carée;Lieu comme place Winston churchill
+break;arrêt;une rupture;les freins
+cell;une cellule 
+Mansion;Manoir
+pencilcase;trousse
+chaine saw;une tranceneuse 
+Sekeletton;squelette
+underground;le métro;clandistin;quelque chose sous le sol 
+warehouse;chantier
+crowbar;
+grenade;un fruit sucré produit par un arbre le grandier;une arme explosive
+grape;raisin
+pickaxe;pioche
+lighthouse;phare
+voiture;car 
+pelle;shovel
+tour;tower;turn 
+tournevis;screwdriver
+couteau swiss;pocketknife
+chevalier;knight
+rouage;gear
+or;gold
+cuivre;cupper
+terrain;staduim
+aigle;eagle
+horologe;wallclock
+tremblement de terre;earthquake
+sabre;sword
+bouclier;sheild
+été;summmer
+
